@@ -1,5 +1,5 @@
 {
-  "name": "verify-links",
+  "name": "verify-links-md",
   "version": "1.0.0",
   "description": "A library created with Node.Js made for the use of checking existing links, it detects texts in the readme file, where it detects and evaluates whether the links are working or not.",
   "main": "index.js",
