@@ -1,5 +1,5 @@
 {
-  "name": "Verify Links",
+  "name": "verify-links",
   "version": "1.0.0",
   "description": "A library created with Node.Js made for the use of checking existing links, it detects texts in the readme file, where it detects and evaluates whether the links are working or not.",
   "main": "index.js",
@@ -16,9 +16,9 @@
   "author": "Riclou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/riclou/Verify-Links.git"
+    "url": "https://github.com/riclou/Verify-Links/issues"
   },
-  "homepage": "https://github.com/riclou/Verify-Links.git",
+  "homepage": "https://github.com/riclou/Verify-Links#readme",
   "dependencies": {
     "chalk": "^5.2.0"
   }
