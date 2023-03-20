@@ -16,8 +16,9 @@ npm run cli (path of the directory or file you want to check)
             or
     npm run cli ./arquivos/text.md
 ```
+![cli run default](https://user-images.githubusercontent.com/51518580/226369831-6a65f20a-9f7b-419e-acfc-dd8458f234db.gif)
 
-![Uploading cli run default.gif…]()
+
 
 How to validate the links?
 This library returns the http values, for that we use the **"valida"** command after the file.
