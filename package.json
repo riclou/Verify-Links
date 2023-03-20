@@ -1,7 +1,7 @@
 {
-  "name": "2708-node-lib-md",
+  "name": "Verify Links",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library created with Node.Js made for the use of checking existing links, it detects texts in the readme file, where it detects and evaluates whether the links are working or not.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
+    "url": "git+https://github.com/riclou/Verify-Links.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["links", "verify"],
+  "author": "Riclou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+    "url": "https://github.com/riclou/Verify-Links.git"
   },
-  "homepage": "https://github.com/alura-cursos/2708-node-lib-md#readme",
+  "homepage": "https://github.com/riclou/Verify-Links.git",
   "dependencies": {
     "chalk": "^5.2.0"
   }
